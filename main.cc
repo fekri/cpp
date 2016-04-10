@@ -1,5 +1,5 @@
 //
-//  main.cpp
+//  main.cc
 //  cpp
 //
 //  Created by Fekri kassem on 4/9/16.
